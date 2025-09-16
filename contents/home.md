@@ -1,6 +1,6 @@
 
 
-[![yeungyuandong](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/yeungyuandong)
+[![yeungyuandong](https://img.shields.io/badge/yeungyuandong-github-blue?logo=github)](https://github.com/yeungyuandong)
 
 He is an undergraduate student at the School of Computer Science, Nanjing University (Class of 2022–2026). Starting in 2026, he will pursue his Ph.D. in the same school under the supervision of Prof. Limin Wang.
 
