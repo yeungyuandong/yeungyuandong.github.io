@@ -1,17 +1,17 @@
 
 
-[![yeungyuandong](https://img.shields.io/badge/yeungyuandong-github-blue?logo=github)](https://github.com/yeungyuandong)
+[![GitHub](https://img.shields.io/badge/GitHub-yeungyuandong-181717?logo=github&logoColor=white)](https://github.com/yeungyuandong)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rp_-mbAAAAAJ)
 
-He is an undergraduate student at the School of Computer Science, Nanjing University (Class of 2022–2026). Starting in 2026, he will pursue his Ph.D. in the same school under the supervision of Prof. Limin Wang.
+I am a Ph.D. student in the School of Computer Science at Nanjing University, advised by Prof. Limin Wang. I received my B.E. in Computer Science from Nanjing University in 2026.
 
 #### Contact
 
-Email: yuandongy189[at]gmail.com
+Email: [yd_yang@smail.nju.edu.cn](mailto:yd_yang@smail.nju.edu.cn)
 
 #### Education
-Ph.D. (expected), School of Computer Science, Nanjing University, 2026–\
-B.E., School of Computer Science, Nanjing University, 2022-2026.
+- Ph.D. in Computer Science, Nanjing University, 2026–Present.
+- B.E. in Computer Science, Nanjing University, 2022–2026.
 
 #### Research Interests
-Multimodal large language models, Online video understanding, Long video understanding, Few-shot image classification
-
+My research interests center on **Video Understanding**, with a particular focus on **Online Video Understanding**. I am also interested in applying online video understanding to real-world scenarios, including assistive technologies for blind and visually impaired people.
