@@ -14,4 +14,4 @@ Email: yd_yang[at]smail.nju.edu.cn
 - B.S. in Information and Computing Science, School of Computer Science, Nanjing University, 2022–2026.
 
 #### Research Interests
-My research interests center on **Video Understanding**, with a particular focus on **Online Video Understanding**. I am also interested in applying online video understanding to real-world scenarios, including assistive technologies for blind and visually impaired people.
+My research interests center on **Video Understanding**, with a particular focus on **Interaction Models** and **Online Video Understanding**. I am also interested in applying online video understanding to real-world scenarios, including assistive technologies for blind and visually impaired people.
